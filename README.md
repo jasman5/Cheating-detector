@@ -1,3 +1,5 @@
+
+
 # 🎓 AI-Based Cheating Detection System
 An AI-powered online exam monitoring system that detects suspicious activities using Computer Vision and AI techniques. The project analyzes webcam/video feed in real-time to identify cheating behavior such as multiple face detection, looking away from screen, and candidate absence.
 
@@ -29,3 +31,6 @@ Cheating-detector/
 ├── requirements.txt     # Dependencies
 ├── assets/              # Demo videos/images
 └── README.md
+
+## demo video
+https://drive.google.com/file/d/1__o2Vp4-4-EP6tW0YsNAcg29GebbCNob/view?usp=sharing
